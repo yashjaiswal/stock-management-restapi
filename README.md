@@ -6,7 +6,7 @@ My father owns a bar selling alcohol and liquor beverages. His daily chores invo
 I have used the name "eagle" extensively throughout this project in names of packages, request-mappings etc, as it is the name of the bar that my father runs.
 
 ## Technologies used:</br>
-Hibernate, Spring MVC, Maven
+Hibernate, Spring MVC, Maven, MySQL
 
 ## Request URLs
 Following are the request URLs for the API methods, sample answers and their description, as to what they do.
